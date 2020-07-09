@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Gauss Quadrature Rules
+@Title:
+    Gauss Quadrature Rules
+
+@author: 
+    Ehsan Kharazmi
+    Division of Applied Mathematics
+    Brown University
+    ehsan_kharazmi@brown.edu
 
 Created on Fri Apr 12 15:06:19 2019
-@author: Ehsan
 """
 
 import numpy as np
