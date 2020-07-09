@@ -18,11 +18,8 @@ Created on 2019
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-#from matplotlib.ticker import FuncFormatter
 import matplotlib.gridspec as gridspec
 from pyDOE import lhs
-#import scipy.io
-#from scipy.special import legendre
 from GaussJacobiQuadRule_V3 import Jacobi, DJacobi, GaussLobattoJacobiWeights, GaussJacobiWeights
 import time
 
