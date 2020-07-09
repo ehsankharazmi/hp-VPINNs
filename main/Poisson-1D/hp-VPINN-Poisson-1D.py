@@ -1,10 +1,16 @@
 
 """
+@Title:
+    hp-VPINNs: A General Framework For Solving PDEs
+    Application to 1D Poisson Eqn
+
+@author: 
+    Ehsan Kharazmi
+    Division of Applied Mathematics
+    Brown University
+    ehsan_kharazmi@brown.edu
+
 Created on 2019
-@author: Ehsan Kharazmi
-
-hp-VPINNs: Poisson's Equation 1-Dimensional
-
 """
 
 ###############################################################################
